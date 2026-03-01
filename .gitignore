@@ -1,0 +1,24 @@
+# Virtual environment
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large model files
+*.caffemodel
+*.pth
+*.pt
+*.pkl
+
+# HuggingFace cache (VERY IMPORTANT)
+.cache/
+*.safetensors
+
+# OS files
+.DS_Store
+Thumbs.db
